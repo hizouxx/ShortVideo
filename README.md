@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/images/logo.png" width="150">
+  <img src="assets/images/logo.png" width="60">
 <br>
 <br>
 ShortVideo
