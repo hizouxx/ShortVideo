@@ -50,7 +50,7 @@ export default Girls = ({route, navigation}) => {
   return (
     <>
       {/* 状态栏 */}
-      <StatusBar barStyle={'light-content'} backgroundColor="transparent" />
+      <StatusBar hidden={true} />
       <View
         style={{
           position: 'absolute',

@@ -43,10 +43,7 @@ export default Girls = ({route, navigation}) => {
 
   return (
     <>
-      <StatusBar
-        barStyle={'light-content'}
-        backgroundColor={GlobalStyle.BackgroundColor}
-      />
+      <StatusBar hidden={true} />
       <View
         style={{
           position: 'absolute',
